@@ -3940,35 +3940,6 @@ body {
   font-size: 96px;
   color: #149dcc;
 }
-.cid-qwvURd1mXm {
-  padding-top: 45px;
-  padding-bottom: 0px;
-  background-color: #efefef;
-}
-.cid-qwvURd1mXm .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qwvTMMXSRQ {
-  padding-top: 60px;
-  padding-bottom: 30px;
-  background: #efefef;
-}
-.cid-qwvTMMXSRQ .image-block {
-  margin: auto;
-}
-.cid-qwvTMMXSRQ figcaption {
-  position: relative;
-}
-.cid-qwvTMMXSRQ figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qwvTMMXSRQ .image-block {
-    width: 100% !important;
-  }
-}
 .cid-qwlh6B9Slf {
   padding-top: 90px;
   padding-bottom: 90px;
